@@ -10,4 +10,4 @@ Compared the results to recommend the best Regression model.
 
 COLAB LINK: https://colab.research.google.com/drive/1RBN_12rEdBP5OEqajywILKISmBsKSdbJ?usp=sharing
 
-PDF LINK:  
+PDF LINK:  https://drive.google.com/file/d/1NP1PHlp1JeA90YtTB33rDWR6i4RzpCjO/view?usp=drive_link
